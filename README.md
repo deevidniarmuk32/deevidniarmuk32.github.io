@@ -1,5 +1,5 @@
-simple_web
-===
+# deevidniarmuk32.github.io
+
 A simple web server that outputs the IP addresses of the source and destination, very useful for testing loadbalancer to show real requests.
 
 # Supported tags and respective Dockerfile links
